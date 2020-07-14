@@ -1,0 +1,25 @@
+{
+  "name": "test3",
+  "version": "1.0.0",
+  "description": "learn",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  },
+  "scripts": {
+    "start": "npm run lite",
+  "test": "echo \"Error: no test specified\" && exit 1",
+  "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jyo369/test3.git"
+  },
+  "author": "jyothi Nadimpalli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jyo369/test3/issues"
+  },
+  "homepage": "https://github.com/jyo369/test3#readme"
+}
